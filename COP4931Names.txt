@@ -3,3 +3,4 @@ For Spring semester 2022, this is the file that contains the names of all of the
 Anderson, Jim
 Reyes, Joaquin
 Alfano, Christian
+Pantelis, Stavros
