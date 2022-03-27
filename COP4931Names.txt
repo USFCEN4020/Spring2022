@@ -17,7 +17,5 @@ Correa, Ricardo
 Rudolph, Nicholas
 Wright, James
 Wilkins, Katherine
-<<<<<<< HEAD
 Doehnert, Andrew
-=======
->>>>>>> Names
+
