@@ -1,0 +1,20 @@
+For Spring semester 2022, this is the file that contains the names of all of the students in COP 4931:
+
+Anderson, Jim
+Reyes, Joaquin
+Alfano, Christian
+Pantelis, Stavros
+Minnelli, Alexander
+Fournier, Andrew
+Giddings, Garrett
+Sanchez, Spencer
+Schiereck, David
+Truong, Steven
+Del Valle, Maximo
+Hojun, Lee
+Cuevas, Jordan
+Correa, Ricardo
+Rudolph, Nicholas
+Wright, James
+Wilkins, Katherine
+Doehnert, Andrew
