@@ -1,6 +1,7 @@
 For Spring semester 2022, this is the file that contains the names of all of the students in COP 4931:
 
 Anderson, Jim
+Abualteen, Adam
 Albaba, Waseem
 Reyes, Joaquin
 Alfano, Christian
@@ -29,4 +30,11 @@ He, William
 Chen, Brendan
 Vogel, Brody
 Orozco, Bernard
+<<<<<<< HEAD
 Viktoria Petrova
+=======
+Orozco, Bernard
+Mendez, Alejandro
+Newgent, Henry
+
+>>>>>>> 7186c5e0c5a4f7c03de2d257068012a4132775ce
