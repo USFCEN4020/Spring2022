@@ -1,17 +1,23 @@
 For Spring semester 2022, this is the file that contains the names of all of the students in COP 4931:
 
 Anderson, Jim
+Abualteen, Adam
+Albaba, Waseem
 Reyes, Joaquin
 Alfano, Christian
+Marriott, Taylor
 Pantelis, Stavros
 Minnelli, Alexander
 Fournier, Andrew
 Giddings, Garrett
+Gregory, Brooke
 Sanchez, Spencer
 Schiereck, David
 Truong, Steven
+Field, Elexis
 Del Valle, Maximo
 Hojun, Lee
+Siddiqi, Abdullah
 Cuevas, Jordan
 Correa, Ricardo
 Rudolph, Nicholas
@@ -20,3 +26,28 @@ Wilkins, Katherine
 Doehnert, Andrew
 Silvert, William
 Whitlock, Patricia
+Nguyen, Lilly
+Loppnow, Payton
+GonzalezRuiz,Maykel
+He, William
+Chen, Brendan
+Vogel, Brody
+Orozco, Bernard
+<<<<<<< HEAD
+<<<<<<< HEAD
+Viktoria Petrova
+=======
+Orozco, Bernard
+Mendez, Alejandro
+Newgent, Henry
+
+>>>>>>> 7186c5e0c5a4f7c03de2d257068012a4132775ce
+=======
+Orozco, Bernard
+Mendez, Alejandro
+Newgent, Henry
+Prezzama, Collin
+>>>>>>> f2ecb94c7d9b347aa51411a31cee2553ad7deb14
+
+Ashton Tippin
+Jessica Moreno
