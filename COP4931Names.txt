@@ -3,6 +3,7 @@ For Spring semester 2022, this is the file that contains the names of all of the
 Anderson, Jim
 Abualteen, Adam
 Albaba, Waseem
+Alkishawi, Adam
 Reyes, Joaquin
 Alfano, Christian
 Marriott, Taylor
