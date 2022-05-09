@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hellosda
+=======
+Am i supposed to do this?
+>>>>>>> 1bd13e750960ee3064c24193c8be41071632f66d
